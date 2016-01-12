@@ -1,2 +1,2 @@
 # springxd-demo
-PRoject to familiarize with big data and spring xd
+Project to familiarize with big data and spring xd
